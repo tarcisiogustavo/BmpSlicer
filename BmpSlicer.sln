@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmpSlicer", "BmpSlicer.csproj", "{EFBA9F57-88A8-4E7A-BC30-FE6F456061EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBA9F57-88A8-4E7A-BC30-FE6F456061EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBA9F57-88A8-4E7A-BC30-FE6F456061EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBA9F57-88A8-4E7A-BC30-FE6F456061EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBA9F57-88A8-4E7A-BC30-FE6F456061EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE47972B-2607-4EC4-9BFE-1D27271D38F7}
+	EndGlobalSection
+EndGlobal
